@@ -1,2 +1,3 @@
 # iOSDevFrame
-这是一个基于mvvm的应用程序框架
+  语法:Object-C
+  iOSDevFrame是基于MVVM编程思想进行构建的，解决了IOS开发中ViewController过于臃肿的问题,为controller瘦身，使用结构更加清晰。
